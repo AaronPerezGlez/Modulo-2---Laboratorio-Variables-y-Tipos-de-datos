@@ -1,0 +1,16 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.shopping-header > h2 {
+    text-align: center;
+    padding: 20px;
+}
+
+.shopping-item {
+    padding: 15px;
+    border-radius: 3px;
+    border: 1px solid #dcdcdc;
+    display: flex;
+    justify-content: space-between;
+}
